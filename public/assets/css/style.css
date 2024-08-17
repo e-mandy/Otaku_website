@@ -3953,16 +3953,6 @@ section.overflow-unset, .section.overflow-unset, .overflow-unset {
   position: relative;
   text-align: left;
 }
-.header .main-menu li.has-children > a::after {
-  content: "";
-  background: url(../imgs/template/icons/angle-down.svg) no-repeat center;
-  height: 8px;
-  width: 12px;
-  position: absolute;
-  top: 50%;
-  right: 14px;
-  margin-top: -4px;
-}
 .header .main-menu li.hr {
   padding: 0px 22px;
 }
