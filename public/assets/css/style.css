@@ -528,11 +528,11 @@ h6,
 }
 
 .color-white {
-  color: #ffffff;
+  color: white;
 }
 
 .color-brand-1 {
-  color: #3CF2F2;
+  color: black;
 }
 
 .color-brand-2 {
@@ -556,7 +556,7 @@ h6,
 }
 
 .color-400 {
-  color: #CCD5DE;
+  color: #938686;
 }
 
 .color-500 {
@@ -580,15 +580,15 @@ h6,
 }
 
 .color-dark-900 {
-  color: #F1F1F1;
+  color: white;
 }
 
 .bg-0 {
-  background-color: #FFFFFF !important;
+  background-color: #FFFBB4 !important;
 }
 
 .bg-100 {
-  background-color: #F2F6F9;
+  background-color: #fffbb4;
 }
 
 .bg-200 {
@@ -1424,6 +1424,7 @@ body {
   font-style: normal;
   font-weight: 500;
   position: relative;
+  background-color: #fffbb4;
 }
 
 .text-fill-wrap {
@@ -1603,9 +1604,9 @@ body {
   font-weight: 700;
 }
 .btn.btn-browse {
-  background-color: #014FE5;
+  background-color: #853711;
   border-radius: 100px;
-  color: #ffffff;
+  color: black;
   padding: 10px 25px 11px 25px;
   font-family: "DM Sans", sans-serif;
   font-size: 16px;
@@ -2293,7 +2294,7 @@ body {
 }
 .cardBlog .cardInfo {
   padding: 35px;
-  background-color: #ffffff;
+  background-color: #ffba49;
   position: relative;
   top: -90px;
   margin-left: 70px;
@@ -3910,12 +3911,13 @@ section.overflow-unset, .section.overflow-unset, .overflow-unset {
 }
 
 .header {
+  top: 0;
   padding: 0px 78px;
   float: left;
   width: 100%;
   position: relative;
   border-bottom: 0px solid #E8E9ED;
-  background-color: #fffbb4;
+  background-color: transparent;
   z-index: 1004;
   position: fixed;
   top: 0px;
@@ -5196,6 +5198,7 @@ footer a {
 
 .pt-80 {
   padding-top: 80px !important;
+  background-color: #fffbb4;
 }
 
 .pt-85 {
@@ -6580,7 +6583,7 @@ footer a {
   border-radius: 100px;
   padding: 10px 30px 10px 10px;
   align-items: center;
-  background-color: #1C68FB;
+  background-color: #853711;
   color: #FFFFFF;
 }
 
@@ -7994,8 +7997,8 @@ footer a {
 }
 
 .banner-homepage5 {
-  background-color: #0C0D0E;
-  background-image: url(../imgs/page/homepage5/bg-banner.png);
+  background-color: #fffbb4;
+  background-image: url(../imgs/page/img/ecole.jpg);
   background-position: bottom center;
   background-size: 100% auto;
   position: relative;
@@ -9286,7 +9289,7 @@ footer a {
   justify-content: space-between;
   padding: 70px;
   border-radius: 80px;
-  background-image: url(../imgs/page/portfolio5/bg-design.png);
+  background-image: url(../imgs/page/img/anime.jpg);
   background-position: top center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -9309,7 +9312,8 @@ footer a {
   position: relative;
   min-height: 2000px;
   background: url(../imgs/page/img/calendar-3.jpg) no-repeat center bottom;
-  background-size: contain;
+  background-size: cover;
+  background-color: red;
 
 }
 
@@ -9317,7 +9321,6 @@ footer a {
   position: relative;
   width: 100%;
   height: 100%;
-  background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='200' height='200'><line x1='0.5' y1='0.5' x2='5.5' y2='0.5' style='stroke:rgb(0,0,0);stroke-width:1'/><line x1='200.5' y1='0.5' x2='195.5' y2='0.5' style='stroke:rgb(0,0,0);stroke-width:1'/><line x1='0.5' y1='0.5' x2='0.5' y2='5.5' style='stroke:rgb(0,0,0);stroke-width:1'/><line x1='0.5' y1='200.5' x2='0.5' y2='195.5' style='stroke:rgb(0,0,0);stroke-width:1'/></svg>"), linear-gradient(to right, #F2F6F9 1px, transparent 0, transparent 100px), linear-gradient(to bottom, #F2F6F9 1px, transparent 0, transparent 100px);
   background-color: #fffbb4;
   background-size: 100px 100px;
   background-repeat: repeat;
@@ -9325,10 +9328,6 @@ footer a {
 
 .dark-mode .bg-line-dots {
   background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='200' height='200'><line x1='0.5' y1='0.5' x2='5.5' y2='0.5' style='stroke:rgb(255,255,255);stroke-width:1'/><line x1='200.5' y1='0.5' x2='195.5' y2='0.5' style='stroke:rgb(255,255,255);stroke-width:1'/><line x1='0.5' y1='0.5' x2='0.5' y2='5.5' style='stroke:rgb(255,255,255);stroke-width:1'/><line x1='0.5' y1='200.5' x2='0.5' y2='195.5' style='stroke:rgb(255,255,255);stroke-width:1'/></svg>"), linear-gradient(to right, #1E2022 1px, transparent 0, transparent 100px), linear-gradient(to bottom, #1E2022 1px, transparent 0, transparent 100px);
-}
-
-.banner-general.bg-line-dots {
-  border-bottom: 1px solid #535455;
 }
 
 .link-icon {

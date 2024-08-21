@@ -82,10 +82,10 @@
                     <li class="has-children"><a href="#">Nos Membres</a>
                       
                     </li>
-                    <li class="has-children"><a href="blog.html">Notre Ecole</a>
+                    <li class="has-children"><a href="{{ route('ecole') }}">Notre Ecole</a>
                       
                     </li>
-                    <li class="has-children"><a href="#">Nos Evènements</a>
+                    <li class="has-children"><a href="{{ route('event') }}">Nos Evènements</a>
                       
                     </li>
                   </ul>
@@ -319,7 +319,7 @@
                 <div class="row">
                   <div class="col-lg-6 mb-120">
                     <div class="cardRecent cursor-view">
-                      <div class="cardImage parallax-item"><a href="portfolio-detail.html"><img class="scoll-reduce-border-radius parallax-image" src="assets/imgs/page/img/cuisine-2.jpeg" alt="neuron"></a></div>
+                      <div class="cardImage parallax-item"><a href="portfolio-detail.html"><img class="scoll-reduce-border-radius parallax-image" src="assets/imgs/page/img/gastro.jpeg" alt="neuron"></a></div>
                       <div class="cardInfo">
                         <h3 class="color-900">Cuisine japonaise</h3>
                         <div class="info-bottom"><span class="font-3xl-bold color-600 text-opacity">Gastronomie</span>
@@ -330,7 +330,7 @@
                   </div>
                   <div class="col-lg-6 mb-120">
                     <div class="cardRecent cursor-view">
-                      <div class="cardImage parallax-item"><a href="portfolio-detail.html"><img class="scoll-reduce-border-radius parallax-image" src="assets/imgs/page/img/gaming-2.jpeg" alt="neuron"></a></div>
+                      <div class="cardImage parallax-item"><a href="portfolio-detail.html"><img class="scoll-reduce-border-radius parallax-image" src="assets/imgs/page/img/gaming.jpeg" alt="neuron"></a></div>
                       <div class="cardInfo">
                         <h3 class="color-900">Game Night</h3>
                         <div class="info-bottom"><span class="font-3xl-bold color-600 text-opacity">Loisir</span>

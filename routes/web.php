@@ -7,14 +7,14 @@ use App\Http\Controllers\EcoleController;
 
 Route::controller(EventController::class)->group(function(){
     
-    Route::get('/event', 'index');
+    Route::get('/event', 'index')->name('event');
 
     
 });
 
 Route::controller(EcoleController::class)->group(function(){
     
-    Route::get('/ecole', 'school');
+    Route::get('/ecole', 'school')->name('ecole');
 
     
 });

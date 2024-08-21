@@ -82,10 +82,10 @@
                     <li class="has-children"><a href="#">Nos Membres</a>
                       
                     </li>
-                    <li class="has-children"><a href="blog.html">Notre Ecole</a>
+                    <li class="has-children"><a href="{{ route('ecole') }}">Notre Ecole</a>
                       
                     </li>
-                    <li class="has-children"><a href="#">Nos Evènements</a>
+                    <li class="has-children"><a href="{{ route('event') }}">Nos Evènements</a>
                       
                     </li>
                   </ul>
@@ -116,13 +116,13 @@
                     <h2 class="color-brand-1 mt-15 mb-35">Ecole Supérieure de Gestion et d'Informatique</h2>
                     <p class="font-md-medium color-white">Finding the best marketing solution for your business. Driven by data based on human behavior.</p>
                     <div class="mt-50 number-grid">
-                      <div class="number-1"><span class="heading-4 color-dark-900 count">10000</span><span class="heading-4 color-brand-1">+</span>
+                      <div class="number-1"><span class="heading-4 color-dark-900 count">10000</span><span class="heading-4 color-brand-1"> +</span>
                         <p class="font-lg-bold color-dark-900">Etudiants</p>
                       </div>
-                      <div class="number-1"><span class="heading-4 color-dark-900 count">10</span><span class="heading-4 color-brand-1">+</span>
+                      <div class="number-1"><span class="heading-4 color-dark-900 count">10</span><span class="heading-4 color-brand-1"> +</span>
                         <p class="font-lg-bold color-dark-900">Formations</p>
                       </div>
-                      <div class="number-1"><span class="heading-4 color-dark-900 count">5</span><span class="heading-4 color-brand-1">+</span>
+                      <div class="number-1"><span class="heading-4 color-dark-900 count">5</span><span class="heading-4 color-brand-1"> +</span>
                         <p class="font-lg-bold color-dark-900">Sites Géographiques</p>
                       </div>
                     </div>
