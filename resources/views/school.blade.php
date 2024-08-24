@@ -97,42 +97,173 @@
         </div><span class="comet-horizontal"></span>
       </header>
       <main class="main">
-        <section class="section banner-mode banner-mode-3">
-          <div class="banner-homepage1 banner-homepage5">
-            <div class="box-content-banner">
-              <div class="box-banner-home5">
-                <div class="container">
-                  <div class="banner-left"><a class="btn btn-browse" href="#">Retrouvez nous 
-                      <svg width="16" height="16" viewbox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-                        <g clip-path="url(#clip0_1_450)">
-                          <path fill-rule="evenodd" clip-rule="evenodd" d="M11.696 2.512H0.896V0H16V15.104H13.488V4.32L1.76 16L0 14.224L11.696 2.512Z" fill="#3CF2F2"></path>
-                        </g>
-                        <defs>
-                          <clippath id="clip0_1_450">
-                            <rect width="16" height="16" fill="white"></rect>
-                          </clippath>
-                        </defs>
-                      </svg></a>
-                    <h2 class="color-brand-1 mt-15 mb-35">Ecole Supérieure de Gestion et d'Informatique</h2>
-                    <p class="font-md-medium color-white">Finding the best marketing solution for your business. Driven by data based on human behavior.</p>
-                    <div class="mt-50 number-grid">
-                      <div class="number-1"><span class="heading-4 color-dark-900 count">10000</span><span class="heading-4 color-brand-1"> +</span>
-                        <p class="font-lg-bold color-dark-900">Etudiants</p>
-                      </div>
-                      <div class="number-1"><span class="heading-4 color-dark-900 count">10</span><span class="heading-4 color-brand-1"> +</span>
-                        <p class="font-lg-bold color-dark-900">Formations</p>
-                      </div>
-                      <div class="number-1"><span class="heading-4 color-dark-900 count">5</span><span class="heading-4 color-brand-1"> +</span>
-                        <p class="font-lg-bold color-dark-900">Sites Géographiques</p>
-                      </div>
-                    </div>
-                  </div>
+      <section class="section section-banner-portfolio-detail pt-80">
+          <div class="banner-general bg-0">
+            <div class="container">
+              <div class="row">
+                <div class="col-lg-5">
+                  <h1 class="title-banener color-white mt-50">Ecole Supérieure de Gestion d'Informatique et des Sciences</h1>
+                  <p class="font-2xl color-white">La voie de la rigueur qui conduit à l'excellence, telle est la vision de l'ESGIS.</p>
                 </div>
-                <div class="banner-right"><img src="assets/imgs/page/homepage5/banner.png" alt="neuron"></div>
               </div>
             </div>
           </div>
         </section>
+        <section class="section is-mode">
+          <div class="block-overview-deail bg-0">
+            <div class="container">
+              <h3 class="color-900 mb-50">L'ESGIS</h3>
+              <div class="row">
+                <div class="col-lg-4">
+                  <div class="box-image-ov"><img class="img-overview parallax-image" src="assets/imgs/page/portfolio-detail/img-overview.png" alt="neuron"></div>
+                </div>
+                <div class="col-lg-8">
+                  <p class="font-3xl color-900 text-opacity">L'École Supérieure de Gestion, d'Informatique et des Sciences (ESGIS) est une institution de renom fondée en 1994. Avec des campus au Bénin, au Togo, et au Gabon, ESGIS est reconnue pour son rayonnement international. Elle délivre des diplômes accrédités par le CAMES (Conseil Africain et Malgache pour l’Enseignement Supérieur) et reconnus par l'État.</p>
+                  <div class="list-metas">
+                    <div class="item-meta">
+                      <p class="font-xl color-600">Déjà</p>
+                      <p class="font-2xl-bold color-900">19 ans d'excellence</p>
+                    </div>
+                    <div class="item-meta">
+                      <p class="font-xl color-600">Présents dans</p>
+                      <p class="font-2xl-bold color-900">3 pays</p>
+                    </div>
+                    <div class="item-meta">
+                      <p class="font-xl color-600">Plus de </p>
+                      <p class="font-2xl-bold color-900">10 formations</p>
+                    </div>
+                    <div class="item-meta">
+                      <p class="font-xl color-600">Website</p>
+                      <p class="font-2xl-bold color-900"><a href="https://www.esgis.bj/" style="color:black;">esgis.bj<a></p>
+                    </div>
+                  </div>
+                  <!-- <div class="box-button-tags"><a class="btn btn-tags" href="#">Brand Identity</a><a class="btn btn-tags" href="#">UI / UX Design</a></div> -->
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+        <section class="section section-list-bloglist2 is-mode bg-0">
+          <div class="container">
+            <div class="box-list-posts box-list-posts-2 box-list-posts-3 box-content-portfolio">
+              <div class="row">
+                <div class="col-lg-6">
+                  <div class="item-list-blog item-list-blog-2 item-list-blog-4">
+                    <div class="item-blog-info"><a href="blog-single.html">
+                        <h3 class="item-blog-title color-900 text-opacity">La journée de la Culture à ESGIS: Célébration de moments mémorables entre les étudiants</h3></a>
+                      <div class="item-blog-metas"><span class="font-2xl-bold color-600 mr-50">25 Mai 2024</span><a class="font-xl-bold color-600 link-tag" href="#"># Branding</a><a class="font-xl-bold color-600 link-tag" href="#">#ESGIS</a></div>
+                    </div>
+                    <div class="item-blog-image">
+                      <div class="bdrd-30"><a href="blog-single.html"><img class="parallax-image" src="assets/imgs/page/img/esgis-culture.jpg" alt="neuron"></a></div>
+                    </div>
+                  </div>
+                  <div class="item-list-blog item-list-blog-2 item-list-blog-4">
+                    <div class="item-blog-info"><a href="blog-single.html">
+                        <h3 class="item-blog-title color-900 text-opacity">Certifications professionnelles: Des formations du numérique pour prendre goût au métier.</h3></a>
+                      <div class="item-blog-metas"><span class="font-2xl-bold color-600 mr-50">17 Septembre 2024</span><a class="font-xl-bold color-600 link-tag" href="#">#Certifications</a><a class="font-xl-bold color-600 link-tag" href="#">#Informatique</a></div>
+                    </div>
+                    <div class="item-blog-image">
+                      <div class="bdrd-30"><a href="blog-single.html"><img class="parallax-image" src="assets/imgs/page/blog/img10.png" alt="neuron"></a></div>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-lg-6">
+                  <div class="item-list-blog item-list-blog-2 item-list-blog-4">
+                    <div class="item-blog-image">
+                      <div class="bdrd-30"><a href="blog-single.html"><img class="parallax-image" src="assets/imgs/page/portfolio/img5.png" alt="neuron"></a></div>
+                    </div>
+                    <div class="item-blog-info"><a href="blog-single.html">
+                        <h3 class="item-blog-title color-900 text-opacity">De nouvelles installations: La mise en place d'une nouvelle salle informatique avec un équipement de taille.</h3></a>
+                      <div class="item-blog-metas"><span class="font-2xl-bold color-600 mr-50">26 Août 2024</span><a class="font-xl-bold color-600 link-tag" href="#"># Branding</a><a class="font-xl-bold color-600 link-tag" href="#">#ESGIS</a></div>
+                    </div>
+                  </div>
+                  <div class="item-list-blog item-list-blog-2 item-list-blog-4">
+                    <div class="item-blog-image">
+                      <div class="bdrd-30"><a href="blog-single.html"><img class="parallax-image" src="assets/imgs/page/blog/img13.png" alt="neuron"></a></div>
+                    </div>
+                    <div class="item-blog-info"><a href="blog-single.html">
+                        <h3 class="item-blog-title color-900 text-opacity">Pixel Pioneers: Unveiling the Secrets of Digital Creativity</h3></a>
+                      <div class="item-blog-metas"><span class="font-2xl-bold color-600 mr-50">26 May 2023</span><a class="font-xl-bold color-600 link-tag" href="#"># Branding</a><a class="font-xl-bold color-600 link-tag" href="#"># Creative</a></div>
+                    </div>
+                  </div>
+                  
+                </div>
+              </div>
+            </div>
+            
+        </section>
+        
+        <section class="section is-mode">
+          <div class="block-corporation block-corporation-about bg-0">
+            <div class="container">
+              <div class="box-why-us-2">
+                <div class="row">
+                  <div class="col-lg-6 mb-30">
+                    <h3 class="color-white mb-25 text-up">Formations</h3>
+                    <p class="font-lg color-white text-opacity">Our real value comes from years of hands-on experience at a Creative Director level, both leading design in-house, and working independently with startups; uniquely positioning us to provide the kind of holistic design solutions that are typically expected to require a larger design firm.</p>
+                  </div>
+                </div>
+                <div class="row mt-50">
+                  <div class="col-lg-4">
+                    <div class="card-corp parallax-item grow-up">
+                      <div class="card-icon"><span><img src="assets/imgs/page/homepage3/media.svg" alt="neuron"></span></div>
+                      <div class="card-info">
+                        <h5 class="color-white text-up">Architecture Logicielle</h5>
+                        <p class="font-md color-white text-opacity">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit laborum — semper quis lectus nulla.</p>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-lg-4">
+                    <div class="card-corp parallax-item grow-up">
+                      <div class="card-icon"><span><img src="assets/imgs/page/homepage3/digital.svg" alt="neuron"></span></div>
+                      <div class="card-info">
+                        <h5 class="color-white text-up">Sécurité Informatique</h5>
+                        <p class="font-md color-white text-opacity">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit laborum — semper quis lectus nulla.</p>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-lg-4">
+                    <div class="card-corp parallax-item grow-up">
+                      <div class="card-icon"><span><img src="assets/imgs/page/homepage3/brand.svg" alt="neuron"></span></div>
+                      <div class="card-info">
+                        <h5 class="color-white text-up">Réseau et télécommunication</h5>
+                        <p class="font-md color-white text-opacity">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit laborum — semper quis lectus nulla.</p>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-lg-4">
+                    <div class="card-corp parallax-item grow-up">
+                      <div class="card-icon"><span><img src="assets/imgs/page/homepage3/media.svg" alt="neuron"></span></div>
+                      <div class="card-info">
+                        <h5 class="color-white text-up">Marketing Digital</h5>
+                        <p class="font-md color-white text-opacity">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit laborum — semper quis lectus nulla.</p>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-lg-4">
+                    <div class="card-corp parallax-item grow-up">
+                      <div class="card-icon"><span><img src="assets/imgs/page/homepage3/media.svg" alt="neuron"></span></div>
+                      <div class="card-info">
+                        <h5 class="color-white text-up">Comptabilité Controle Audit</h5>
+                        <p class="font-md color-white text-opacity">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit laborum — semper quis lectus nulla.</p>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-lg-4">
+                    <div class="card-corp parallax-item grow-up">
+                      <div class="card-icon"><span><img src="assets/imgs/page/homepage3/media.svg" alt="neuron"></span></div>
+                      <div class="card-info">
+                        <h5 class="color-white text-up">Social Media</h5>
+                        <p class="font-md color-white text-opacity">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit laborum — semper quis lectus nulla.</p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+
         
       </main>
       <footer class="footer footer-2 is-mode bg-900 position-relative">

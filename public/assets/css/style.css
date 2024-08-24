@@ -3536,7 +3536,7 @@ section.overflow-unset, .section.overflow-unset, .overflow-unset {
   bottom: 20px;
   right: 20px;
   cursor: pointer;
-  background: #0C0D0E;
+  background: #853711;
   width: 72px;
   height: 72px;
   line-height: 80px;
@@ -9431,6 +9431,7 @@ footer a {
 
 .section-banner-portfolio-detail .title-banener {
   margin-bottom: 36px;
+  width: 1200px;
 }
 .section-banner-portfolio-detail .box-breadcrumbs {
   margin: 0px 0px 23px 0px;
@@ -9449,7 +9450,7 @@ footer a {
   content: "";
   height: 100%;
   width: 100%;
-  background-image: url(../imgs/page/portfolio-detail/bg-banner.png);
+  background-image: url(../imgs/page/img/salle.jpeg);
   background-position: top center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -9759,6 +9760,7 @@ footer a {
 @media (max-width: 1440px) {
   .container {
     max-width: 1360px;
+    top: 0;
   }
   .banner-homepage3 h1 {
     font-size: 70px;
@@ -9910,6 +9912,15 @@ footer a {
     padding-left: 50px;
   }
 }
+
+@media (max-width: 1331px){
+  main .section .container{
+    position: relative;
+  }
+
+}
+
+
 @media (max-width: 1199.98px) {
   .header {
     padding: 15px 0;
@@ -10103,10 +10114,12 @@ footer a {
   .box-banner-home5 .banner-left {
     max-width: 100%;
     width: 100%;
+    
     padding-bottom: 250px;
   }
   .banner-homepage5 {
     padding: 110px 0px 0px 0px;
+
   }
   .banner-mode-3 .box-content-banner {
     padding: 0px 0px 290px 0px;
