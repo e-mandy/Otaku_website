@@ -7757,7 +7757,7 @@ footer a {
 }
 
 .block-corporation {
-  padding: 0px 0px 0px 0px;
+  padding: 3%;
 }
 
 .box-list-logos {
@@ -8607,7 +8607,6 @@ footer a {
 
 .block-corporation-about {
   padding-bottom: 150px;
-  border-bottom: 1px solid #CBCFD3;
 }
 
 .box-services-about {
@@ -9657,7 +9656,10 @@ footer a {
   font-size: 1.5em;
 }
 
-
+iframe{
+  width: 100%;
+  padding: 3%;
+}
 
 @media (max-width: 1550px) {
   .cardFleet {

@@ -40,22 +40,22 @@
             <div class="mobile-menu-wrap mobile-header-border">
               <nav class="mt-15">
                 <ul class="mobile-menu font-heading">
-                  <li class="has-children"><a class="active" href="index.html">Accueil</a>
+                  <li class="has-children"><a class="active" href="#">Accueil</a>
                     
                   </li>
-                  <li class="has-children"><a href="#">Activités</a>
+                  <li class="has-children"><a href="#">Nos Activités</a>
                     
                   </li>
                   <li class="has-children"><a href="#">Membres</a>
                     
                   </li>
-                  <li class="has-children"><a href="#">Pages</a>
+                  <li class="has-children"><a href="{{ route('ecole') }}">Notre Ecole</a>
                     
                   </li>
-                  <li class="has-children"><a href="#">Blog</a>
+                  <li class="has-children"><a href="{{ route('event') }}">Evènements</a>
                     
                   </li>
-                  <li><a href="contact.html">Contact</a></li>
+                  <li><a href="#">Contact</a></li>
                 </ul>
               </nav>
             </div>
@@ -401,28 +401,28 @@
                       <div class="cardBlog">
                         <div class="cardImage"><a href="blog-single.html"><img class="parallax-image" src="assets/imgs/page/img/cinema.jpeg" alt="neuron"></a></div>
                         <div class="cardInfo scroll-move-up-2"><a class="tag-link" href="blog-2.html">#<span>Cinéma</span></a><a class="link-blog" href="blog-single.html">
-                            <h4 class="color-light-900 text-opacity">Collaborating for Creativity: How Agencies Bring Ideas to Life</h4></a></div>
+                            <h4 class="color-light-900 text-opacity">Des sorties au cinéma pour visualiser les derniers films des manga cultes.</h4></a></div>
                       </div>
                     </div>
                     <div class="swiper-slide">
                       <div class="cardBlog">
                         <div class="cardImage"><a href="blog-single.html"><img class="parallax-image" src="assets/imgs/page/homepage1/blog2.png" alt="neuron"></a></div>
                         <div class="cardInfo scroll-move-up-2"><a class="tag-link" href="blog-2.html">#<span>Restaurant japonais</span></a><a class="link-blog" href="blog-single.html">
-                            <h4 class="color-light-900 text-opacity">Innovative Strategies of Creative Agencies: Breaking Boundaries</h4></a></div>
+                            <h4 class="color-light-900 text-opacity">Dégustation de mets japonais pour s'imprègner de la culture et du quotidien de ses habitants</h4></a></div>
                       </div>
                     </div>
                     <div class="swiper-slide">
                       <div class="cardBlog">
                         <div class="cardImage"><a href="blog-single.html"><img class="parallax-image" src="assets/imgs/page/img/sport.jpeg" alt="neuron"></a></div>
                         <div class="cardInfo scroll-move-up-2"><a class="tag-link" href="blog-2.html">#<span>Sport</span></a><a class="link-blog" href="blog-single.html">
-                            <h4 class="color-light-900 text-opacity">Inside the Creative Agency Process: From Concept to Completion</h4></a></div>
+                            <h4 class="color-light-900 text-opacity">Des activités sportives pour partager des moments de compétition entre membres.</h4></a></div>
                       </div>
                     </div>
                     <div class="swiper-slide">
                       <div class="cardBlog">
                         <div class="cardImage"><a href="blog-single.html"><img class="parallax-image" src="assets/imgs/page/img/gaming-3.jpeg" alt="neuron"></a></div>
                         <div class="cardInfo scroll-move-up-2"><a class="tag-link" href="blog-2.html">#<span>OTAKU Gaming Tournament</span></a><a class="link-blog" href="blog-single.html">
-                            <h4 class="color-light-900 text-opacity">Innovative Strategies of Creative Agencies: Breaking Boundaries</h4></a></div>
+                            <h4 class="color-light-900 text-opacity">Des tournois gaming entre membres sur différentes plateformes online, offline.</h4></a></div>
                       </div>
                     </div>
                   </div>

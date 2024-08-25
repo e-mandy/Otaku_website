@@ -40,19 +40,19 @@
             <div class="mobile-menu-wrap mobile-header-border">
               <nav class="mt-15">
                 <ul class="mobile-menu font-heading">
-                  <li class="has-children"><a class="active" href="index.html">Accueil</a>
+                  <li class="has-children"><a class="active" href="#">Accueil</a>
                     
                   </li>
-                  <li class="has-children"><a href="#">Activités</a>
+                  <li class="has-children"><a href="#"> Nos Activités</a>
                     
                   </li>
-                  <li class="has-children"><a href="#">Membres</a>
+                  <li class="has-children"><a href="#">Nos Membres</a>
                     
                   </li>
-                  <li class="has-children"><a href="#">Pages</a>
+                  <li class="has-children"><a href="{{ route('ecole') }}">Notre Ecole</a>
                     
                   </li>
-                  <li class="has-children"><a href="#">Blog</a>
+                  <li class="has-children"><a href="{{ route('event') }}">Evènements</a>
                     
                   </li>
                   <li><a href="contact.html">Contact</a></li>
@@ -200,7 +200,7 @@
                 <div class="row">
                   <div class="col-lg-6 mb-30">
                     <h3 class="color-white mb-25 text-up">Formations</h3>
-                    <p class="font-lg color-white text-opacity">Our real value comes from years of hands-on experience at a Creative Director level, both leading design in-house, and working independently with startups; uniquely positioning us to provide the kind of holistic design solutions that are typically expected to require a larger design firm.</p>
+                    <p class="font-lg color-white text-opacity">Notre réelle valeur à travers nos formations confert à nos étudiants un bagage solide pour affronter le monde professionnel.</p>
                   </div>
                 </div>
                 <div class="row mt-50">
@@ -209,7 +209,7 @@
                       <div class="card-icon"><span><img src="assets/imgs/page/homepage3/media.svg" alt="neuron"></span></div>
                       <div class="card-info">
                         <h5 class="color-white text-up">Architecture Logicielle</h5>
-                        <p class="font-md color-white text-opacity">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit laborum — semper quis lectus nulla.</p>
+                        <p class="font-md color-white text-opacity">L'architecture logicielle est essentielle pour gérer la complexité des systèmes modernes, permettre leur évolution avec les nouvelles exigences, et garantir qu'ils répondent aux besoins des utilisateurs tout en étant fiables et efficaces.</p>
                       </div>
                     </div>
                   </div>
@@ -218,7 +218,7 @@
                       <div class="card-icon"><span><img src="assets/imgs/page/homepage3/digital.svg" alt="neuron"></span></div>
                       <div class="card-info">
                         <h5 class="color-white text-up">Sécurité Informatique</h5>
-                        <p class="font-md color-white text-opacity">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit laborum — semper quis lectus nulla.</p>
+                        <p class="font-md color-white text-opacity">La sécurité informatique est cruciale pour les entreprises et les particuliers, car elle protège les informations sensibles, assure la continuité des opérations, et prévient les pertes financières et de réputation liées aux violations de données.</p>
                       </div>
                     </div>
                   </div>
@@ -227,7 +227,7 @@
                       <div class="card-icon"><span><img src="assets/imgs/page/homepage3/brand.svg" alt="neuron"></span></div>
                       <div class="card-info">
                         <h5 class="color-white text-up">Réseau et télécommunication</h5>
-                        <p class="font-md color-white text-opacity">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit laborum — semper quis lectus nulla.</p>
+                        <p class="font-md color-white text-opacity">Les réseaux de télécommunications (ou télécoms) sont des infrastructures qui permettent la transmission de données, de voix, de vidéos, et d'autres formes d'informations sur de longues distances.</p>
                       </div>
                     </div>
                   </div>
@@ -236,7 +236,7 @@
                       <div class="card-icon"><span><img src="assets/imgs/page/homepage3/media.svg" alt="neuron"></span></div>
                       <div class="card-info">
                         <h5 class="color-white text-up">Marketing Digital</h5>
-                        <p class="font-md color-white text-opacity">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit laborum — semper quis lectus nulla.</p>
+                        <p class="font-md color-white text-opacity">Les tendances actuelles, telles que l'utilisation croissante des appareils mobiles et des assistants vocaux, font du marketing digital un domaine en constante évolution et une adaptation aux nouvelles technologies.</p>
                       </div>
                     </div>
                   </div>
@@ -245,7 +245,7 @@
                       <div class="card-icon"><span><img src="assets/imgs/page/homepage3/media.svg" alt="neuron"></span></div>
                       <div class="card-info">
                         <h5 class="color-white text-up">Comptabilité Controle Audit</h5>
-                        <p class="font-md color-white text-opacity">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit laborum — semper quis lectus nulla.</p>
+                        <p class="font-md color-white text-opacity">Ensemble, la comptabilité, le contrôle et l'audit forment un cadre essentiel pour la gestion financière efficace des entreprises. </p>
                       </div>
                     </div>
                   </div>
@@ -253,8 +253,8 @@
                     <div class="card-corp parallax-item grow-up">
                       <div class="card-icon"><span><img src="assets/imgs/page/homepage3/media.svg" alt="neuron"></span></div>
                       <div class="card-info">
-                        <h5 class="color-white text-up">Social Media</h5>
-                        <p class="font-md color-white text-opacity">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit laborum — semper quis lectus nulla.</p>
+                        <h5 class="color-white text-up">Intélligence artificielle</h5>
+                        <p class="font-md color-white text-opacity">L'intelligence artificielle (IA) est une branche de l'informatique visant à créer des systèmes capables d'exécuter des tâches requérant habituellement l'intelligence humaine.</p>
                       </div>
                     </div>
                   </div>
@@ -263,7 +263,10 @@
             </div>
           </div>
         </section>
-
+        <section>
+          <h2>Où nous retrouver ?!</h2>
+          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d955.7833548873484!2d2.424861903096659!3d6.373692934009897!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1023550939340f7d%3A0x49c1b2e299aaacd1!2sEsgis%20Cotonou%20Si%C3%A8ge!5e0!3m2!1sfr!2sza!4v1724584032735!5m2!1sfr!2sza" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        </section>
         
       </main>
       <footer class="footer footer-2 is-mode bg-900 position-relative">
