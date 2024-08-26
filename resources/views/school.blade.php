@@ -115,7 +115,7 @@
               <h3 class="color-900 mb-50">L'ESGIS</h3>
               <div class="row">
                 <div class="col-lg-4">
-                  <div class="box-image-ov"><img class="img-overview parallax-image" src="assets/imgs/page/portfolio-detail/img-overview.png" alt="neuron"></div>
+                  <div class="box-image-ov"><img class="img-overview parallax-image" src="assets/imgs/page/img/esgis-pres.webp" alt="neuron"></div>
                 </div>
                 <div class="col-lg-8">
                   <p class="font-3xl color-900 text-opacity">L'École Supérieure de Gestion, d'Informatique et des Sciences (ESGIS) est une institution de renom fondée en 1994. Avec des campus au Bénin, au Togo, et au Gabon, ESGIS est reconnue pour son rayonnement international. Elle délivre des diplômes accrédités par le CAMES (Conseil Africain et Malgache pour l’Enseignement Supérieur) et reconnus par l'État.</p>
@@ -151,39 +151,39 @@
                   <div class="item-list-blog item-list-blog-2 item-list-blog-4">
                     <div class="item-blog-info"><a href="blog-single.html">
                         <h3 class="item-blog-title color-900 text-opacity">La journée de la Culture à ESGIS: Célébration de moments mémorables entre les étudiants</h3></a>
-                      <div class="item-blog-metas"><span class="font-2xl-bold color-600 mr-50">25 Mai 2024</span><a class="font-xl-bold color-600 link-tag" href="#"># Branding</a><a class="font-xl-bold color-600 link-tag" href="#">#ESGIS</a></div>
+                      <div class="item-blog-metas"><span class="font-2xl-bold color-600 mr-50">21 Mai 2024</span><a class="font-xl-bold color-600 link-tag" href="#"># Branding</a><a class="font-xl-bold color-600 link-tag" href="#">#ESGIS</a></div>
                     </div>
                     <div class="item-blog-image">
-                      <div class="bdrd-30"><a href="blog-single.html"><img class="parallax-image" src="assets/imgs/page/img/esgis-culture.jpg" alt="neuron"></a></div>
+                      <div class="bdrd-30"><img class="parallax-image" src="assets/imgs/page/img/culture.webp" alt="neuron"></div>
                     </div>
                   </div>
                   <div class="item-list-blog item-list-blog-2 item-list-blog-4">
                     <div class="item-blog-info"><a href="blog-single.html">
-                        <h3 class="item-blog-title color-900 text-opacity">Certifications professionnelles: Des formations du numérique pour prendre goût au métier.</h3></a>
-                      <div class="item-blog-metas"><span class="font-2xl-bold color-600 mr-50">17 Septembre 2024</span><a class="font-xl-bold color-600 link-tag" href="#">#Certifications</a><a class="font-xl-bold color-600 link-tag" href="#">#Informatique</a></div>
+                        <h3 class="item-blog-title color-900 text-opacity">Concours de robotiques SCOP: ESGIS se démarque avec la 2ème place.</h3></a>
+                      <div class="item-blog-metas"><span class="font-2xl-bold color-600 mr-50">09 Janvier 2024</span><a class="font-xl-bold color-600 link-tag" href="#">#ROBOTIQUE</a><a class="font-xl-bold color-600 link-tag" href="#">#ESGIS</a></div>
                     </div>
                     <div class="item-blog-image">
-                      <div class="bdrd-30"><a href="blog-single.html"><img class="parallax-image" src="assets/imgs/page/blog/img10.png" alt="neuron"></a></div>
+                      <div class="bdrd-30"><img class="parallax-image" src="assets/imgs/page/img/robotique.webp" alt="neuron"></div>
                     </div>
                   </div>
                 </div>
                 <div class="col-lg-6">
                   <div class="item-list-blog item-list-blog-2 item-list-blog-4">
                     <div class="item-blog-image">
-                      <div class="bdrd-30"><a href="blog-single.html"><img class="parallax-image" src="assets/imgs/page/portfolio/img5.png" alt="neuron"></a></div>
+                      <div class="bdrd-30"><img class="parallax-image" src="assets/imgs/page/img/basket-esgis.webp" alt="neuron"></div>
                     </div>
                     <div class="item-blog-info"><a href="blog-single.html">
-                        <h3 class="item-blog-title color-900 text-opacity">De nouvelles installations: La mise en place d'une nouvelle salle informatique avec un équipement de taille.</h3></a>
-                      <div class="item-blog-metas"><span class="font-2xl-bold color-600 mr-50">26 Août 2024</span><a class="font-xl-bold color-600 link-tag" href="#"># Branding</a><a class="font-xl-bold color-600 link-tag" href="#">#ESGIS</a></div>
+                        <h3 class="item-blog-title color-900 text-opacity">Concours de basketball: La 1ere place du concours de basketball inter-universités</h3></a>
+                      <div class="item-blog-metas"><span class="font-2xl-bold color-600 mr-50">15 Mai 2024</span><a class="font-xl-bold color-600 link-tag" href="#">#Basketball</a><a class="font-xl-bold color-600 link-tag" href="#">#ESGIS</a></div>
                     </div>
                   </div>
                   <div class="item-list-blog item-list-blog-2 item-list-blog-4">
                     <div class="item-blog-image">
-                      <div class="bdrd-30"><a href="blog-single.html"><img class="parallax-image" src="assets/imgs/page/blog/img13.png" alt="neuron"></a></div>
+                      <div class="bdrd-30"><img class="parallax-image" src="assets/imgs/page/img/bal-esgis.webp" style="height:50vh;" alt="neuron"></div>
                     </div>
                     <div class="item-blog-info"><a href="blog-single.html">
-                        <h3 class="item-blog-title color-900 text-opacity">Pixel Pioneers: Unveiling the Secrets of Digital Creativity</h3></a>
-                      <div class="item-blog-metas"><span class="font-2xl-bold color-600 mr-50">26 May 2023</span><a class="font-xl-bold color-600 link-tag" href="#"># Branding</a><a class="font-xl-bold color-600 link-tag" href="#"># Creative</a></div>
+                        <h3 class="item-blog-title color-900 text-opacity">La nuit des étudiants: Des célébrations entre étudiants dans les vêtements les plus élégants.</h3></a>
+                      <div class="item-blog-metas"><span class="font-2xl-bold color-600 mr-50">26 Juillet 024</span><a class="font-xl-bold color-600 link-tag" href="#">#NuitRoyale</a><a class="font-xl-bold color-600 link-tag" href="#">#ESGIS</a></div>
                     </div>
                   </div>
                   
